@@ -1,4 +1,4 @@
 <?php
-print("Hola mundo");
+print("Hola mundo, codigo corregido en el Hotfix");
 
 ?>
